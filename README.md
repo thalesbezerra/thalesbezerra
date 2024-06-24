@@ -6,9 +6,12 @@
 📃 Sou formado em Ciência da Computação e tenho Pós-Graduação em Desenvolvimento
 de aplicativos para WEB 
 
-📫 bezerra.thales@gmail.com
+📧 bezerra.thales@gmail.com<br>
+🔗 linkendi
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!-- Cabeçalho -->
 # Ttítulo 1
