@@ -1,4 +1,7 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo! 👋
+![](https://i.pinimg.com/originals/9e/a7/c3/9ea7c37566fa5d5ec0bb87e6d50a6e20.gif)
+
+
 
 <!-- Cabeçalho -->
 # Ttítulo 1
@@ -32,6 +35,9 @@
 >Aqui é um bloco de código
 
 ```
+console.log("Esse é um código de uma linha");
+console.log("Esse é um código de uma linha");
+console.log("Esse é um código de uma linha");
 <html>
   <head>
     <title>Olá mundo</title>
