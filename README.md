@@ -1,4 +1,5 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
+---
 ![](https://w0.peakpx.com/wallpaper/333/586/HD-wallpaper-demon-slayer-kimetsu-no-yaiba-banner.jpg)
 
 💻 Olá, me chamo Thales Bezerra!<p>
