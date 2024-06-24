@@ -14,7 +14,7 @@
 ##### Lista não ordenada
 - Lista 1
 - Lista 2
-  -sublista
+    - sublista
 <!--
 **thalesbezerra/thalesbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
