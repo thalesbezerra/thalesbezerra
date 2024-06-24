@@ -1,5 +1,5 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
-![](https://pa1.aminoapps.com/8660/1b9b2e1a2b2bf2e8742482ece6322cffbc05fa69r1-498-280_hq.gif)
+![](https://w0.peakpx.com/wallpaper/333/586/HD-wallpaper-demon-slayer-kimetsu-no-yaiba-banner.jpg)
 
 💻 Olá, me chamo Thales Bezerra!<p>
 📃 Sou formado em Ciência da Computação e tenho Pós-Graduação em Desenvolvimento
