@@ -1,5 +1,9 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
-![](https://i.pinimg.com/originals/9e/a7/c3/9ea7c37566fa5d5ec0bb87e6d50a6e20.gif)
+![](https://pa1.aminoapps.com/8660/1b9b2e1a2b2bf2e8742482ece6322cffbc05fa69r1-498-280_hq.gif)
+
+
+
+
 
 
 
