@@ -7,6 +7,14 @@
 #### Ttítulo 4
 ##### Ttítulo 5
 ###### Ttítulo 6
+
+*Ítalico* ou _ítalico_
+**Negrito** ou __Negrito__
+
+##### Lista não ordenada
+- Lista 1
+- Lista 2
+  -sublista
 <!--
 **thalesbezerra/thalesbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
