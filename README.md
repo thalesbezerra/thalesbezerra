@@ -6,6 +6,7 @@
 📃 Sou formado em Ciência da Computação e tenho Pós-Graduação em Desenvolvimento
 de aplicativos para WEB 
 
+📫 bezerra.thales@gmail.com
 
 
 
