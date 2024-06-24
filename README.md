@@ -31,7 +31,13 @@
 `console.log("Esse é um código de uma linha");`
 >Aqui é um bloco de código
 
-```console.log("Esse é um código de uma linha"); console.log("Esse é um código de uma linha");```
+```
+<html>
+  <head>
+    <title>Olá mundo</title>
+  </head>
+</html>
+```
 
 |Ccabeçalho 1|Cabeçalho 2|
 |------------|-----------|
