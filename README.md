@@ -25,6 +25,26 @@
 ![Imagem Harker](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fbr%2Fsearch%3Fk%3Dhacker&psig=AOvVaw0EiDGGAIL2e4EL4Q4UTo0m&ust=1719319331426000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCInOKh9IYDFQAAAAAdAAAAABAE)
 
 
+---
+>Isso é uma citação
+
+`console.log("Esse é um código de uma linha");`
+>Aqui é um bloco de código
+
+```console.log("Esse é um código de uma linha"); console.log("Esse é um código de uma linha");```
+
+|Ccabeçalho 1|Cabeçalho 2|
+|------------|-----------|
+|Texto 1|Texto 2|
+|Texto 1|Texto 2|
+|Texto 1|Texto 2|
+
+##### Checkout
+- [  X ] Tarefa 1
+- [   ] Tarefa 1
+- [   ] Tarefa 1
+- [   ] Tarefa 1
+
 <!--
 **thalesbezerra/thalesbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
