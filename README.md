@@ -1,7 +1,17 @@
-<h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center">
+  🚀 Bem-vindo ao meu universo Dev!
+</h1>
+<p align="center">
+  <img src="https://b.thumbs.redditmedia.com/ryMyuQB476fEym81Wjyc-qicAU8fAn8inFrpmoxS41s.png" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square" alt="profile views" />
+  <a href="https://github.com/thalesbezerra">
+    <img src="https://img.shields.io/github/followers/thalesbezerra?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/thales-bezerra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -41,6 +51,7 @@
 - Desenvolvimento de APIs REST com **Python** e **Node.js**
 - Criação de aplicativos mobile com **Kotlin** e **React Native**
 - Fundamentos e prática de **Machine Learning**
+
 
 ---
 
