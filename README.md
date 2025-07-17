@@ -65,15 +65,37 @@
 |
 
 
-| Coluna 1     | Coluna 2     | Coluna 3     |
-|-------------|--------------|--------------|
-| Linha 1 A   | Linha 1 B    | Linha 1 C    |
-| Linha 2 A   | Linha 2 B    | Linha 2 C    |
-| Linha 3 A   | Linha 3 B    | Linha 3 C    |
+<table>
+  <tr>
+    <th>Coluna 1</th>
+    <th>Coluna 2</th>
+    <th>Coluna 3</th>
+  </tr>
+  <tr>
+    <td>Linha 1 A</td>
+    <td>Linha 1 B</td>
+    <td>Linha 1 C</td>
+  </tr>
+  <tr>
+    <td>Linha 2 A</td>
+    <td>Linha 2 B</td>
+    <td>Linha 2 C</td>
+  </tr>
+  <tr>
+    <td>Linha 3 A</td>
+    <td>Linha 3 B</td>
+    <td>Linha 3 C</td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>Essa é a última linha unificada (sem colunas)</strong></td>
+  </tr>
+  <tr>
+    <td>Linha 4 A</td>
+    <td>Linha 4 B</td>
+    <td>Linha 4 C</td>
+  </tr>
+</table>
 
-**Essa é a última linha unificada (sem colunas)**
-
-| Linha 4 A   | Linha 4 B    | Linha 4 C    |
 
 
 ---
