@@ -61,33 +61,32 @@
 |--------|-----------|-------------|
 | [Nome do Projeto 1](#) | Pequena descrição do que ele faz | Python, Flask |
 | [Nome do Projeto 2](#) | Ex: App de agendamento para salão de beleza | Kotlin |
-| [Currículo App](#) | Ex: Site de doações com animações e clima | React, TailwindCSS <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
-|
+| [Currículo App](#) | Ex: Site de doações com animações e clima | React, TailwindCSS |
 
 
 <table>
   <tr>
-    <th>Coluna 1</th>
-    <th>Coluna 2</th>
-    <th>Coluna 3</th>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
   </tr>
   <tr>
-    <td>Linha 1 A</td>
-    <td>Linha 1 B</td>
-    <td>Linha 1 C</td>
+    <td>Nome do Projeto 1</td>
+    <td>Nome do Projeto 2</td>
+    <td>App Currículo</td>
   </tr>
   <tr>
     <td>Linha 2 A</td>
     <td>Linha 2 B</td>
-    <td>Linha 2 C</td>
+    <td>Criando um app currículo para exibição de informações</td>
   </tr>
   <tr>
     <td>Linha 3 A</td>
     <td>Linha 3 B</td>
-    <td>Linha 3 C</td>
+    <td>React Native</td>
   </tr>
   <tr>
-    <td colspan="3"><strong>Essa é a última linha unificada (sem colunas)</strong></td>
+    <td colspan="3"><img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" /></td>
   </tr>
   <tr>
     <td>Linha 4 A</td>
