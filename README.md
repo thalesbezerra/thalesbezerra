@@ -61,7 +61,8 @@
 |--------|-----------|-------------|
 | [Nome do Projeto 1](#) | Pequena descrição do que ele faz | Python, Flask |
 | [Nome do Projeto 2](#) | Ex: App de agendamento para salão de beleza | Kotlin |
-| [Nome do Projeto 3](#) | Ex: Site de doações com animações e clima | React, TailwindCSS |
+| [Currículo App](#) | Ex: Site de doações com animações e clima | React, TailwindCSS ![Texto alternativo](C:\Users\adm_rededor\Pictures\IMG_REACT_NATIVE\AppCV\CV_IMG01.png)
+ |
 
 ---
 
