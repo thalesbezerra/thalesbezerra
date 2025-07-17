@@ -72,13 +72,13 @@
   </tr>
   <tr>
     <td>Nome do Projeto 1</td>
-    <td>Pequena descrição do que ele faz</td>
-    <td>Python, Flask</td>
+    <td>Pequena descrição do projeto python</td>
+    <td>Python</td>
   </tr>
   <tr>
-    <td>Linha 2 A</td>
-    <td>Nome do Projeto 2</td>
-    <td>Criando um app currículo para exibição de informações</td>
+    <td>Projeto 2</td>
+    <td>Ex: App de agendamento para salão de beleza</td>
+    <td> Kotlin</td>
   </tr>
   <tr>
     <td>Linha 3 A</td>
