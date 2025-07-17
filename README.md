@@ -57,13 +57,6 @@
 
 ## 📌 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Nome do Projeto 1](#) | Pequena descrição do que ele faz | Python, Flask |
-| [Nome do Projeto 2](#) | Ex: App de agendamento para salão de beleza | Kotlin |
-| [Currículo App](#) | Ex: Site de doações com animações e clima | React, TailwindCSS |
-
-
 <table>
   <tr>
     <th>Projeto</th>
@@ -77,9 +70,7 @@
   </tr>
   <tr>
     <td colspan="3">
-      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
-      <img width="151" height="299" alt="CV_IMG02" src="https://github.com/user-attachments/assets/f0b57a8f-b77f-40d9-b7d8-b5ecad932e9b" />
-      <img width="153" height="296" alt="CV_IMG03" src="https://github.com/user-attachments/assets/ee01155d-d052-4563-b5cf-b837dffe514a" />
+      colocar as imagens do projeto aqui
     </td>
   </tr>
   <tr>
@@ -89,9 +80,7 @@
   </tr>
   <tr>
     <td colspan="3">
-      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
-      <img width="151" height="299" alt="CV_IMG02" src="https://github.com/user-attachments/assets/f0b57a8f-b77f-40d9-b7d8-b5ecad932e9b" />
-      <img width="153" height="296" alt="CV_IMG03" src="https://github.com/user-attachments/assets/ee01155d-d052-4563-b5cf-b837dffe514a" />
+      colocar as imagens do projeto aqui
     </td>
   </tr>
   <tr>
@@ -113,9 +102,7 @@
   </tr>
   <tr>
     <td colspan="3">
-      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
-      <img width="151" height="299" alt="CV_IMG02" src="https://github.com/user-attachments/assets/f0b57a8f-b77f-40d9-b7d8-b5ecad932e9b" />
-      <img width="153" height="296" alt="CV_IMG03" src="https://github.com/user-attachments/assets/ee01155d-d052-4563-b5cf-b837dffe514a" />
+      colocar as imagens do projeto aqui
     </td>
   </tr>
 </table>
