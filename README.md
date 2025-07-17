@@ -86,7 +86,11 @@
     <td>React Native</td>
   </tr>
   <tr>
-    <td colspan="3"><img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" /></td>
+    <td colspan="3">
+      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
+      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
+      <img width="151" height="298" alt="CV_IMG01" src="https://github.com/user-attachments/assets/ca58f5e7-249b-460e-9249-3d33b9d583fe" />
+    </td>
   </tr>
   <tr>
     <td>Linha 4 A</td>
