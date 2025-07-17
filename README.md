@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>Linha 2 A</td>
-    <td>Linha 2 B</td>
+    <td>Nome do Projeto 2</td>
     <td>Criando um app currículo para exibição de informações</td>
   </tr>
   <tr>
