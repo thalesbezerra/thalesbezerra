@@ -18,8 +18,8 @@
 
 ## ✨ Sobre mim
 
-🎓 Sou formado em **Ciência da Computação**, com pós-graduação em **Desenvolvimento de Aplicações Web**.  
-💼 Atuei por mais de 18 anos na área de Field Suporte e 8 anos na área de suporte técnico hospitalar e hoje estou em transição para **Desenvolvimento de Software** e **Inteligência Artificial**.  
+🎓 Sou formado em **Ciência da Computação**, com pós-graduação em **Especialização em Tecnologias de Software para Ambiente Web**.  
+💼 Atuei por mais de 18 anos na área de Field Suporte e 8 anos na área de Analista de Suporte Sênior em hospitalar e hoje estou em transição para **Desenvolvimento de Software** e **Inteligência Artificial**.  
 🧠 Apaixonado por tecnologia, estou sempre buscando aprender, praticar e evoluir.
 
 ---
