@@ -81,7 +81,7 @@
     <td> Kotlin</td>
   </tr>
   <tr>
-    <td><span style="color:blue;"><ul>Currículo App</ul></span></td>
+    <td><span style="color:blue;"><u>Currículo App</u></span></td>
     <td>Criando um app currículolo</td>
     <td>React Native</td>
   </tr>
