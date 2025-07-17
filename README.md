@@ -81,8 +81,8 @@
     <td> Kotlin</td>
   </tr>
   <tr>
-    <td>Linha 3 A</td>
-    <td>Linha 3 B</td>
+    <td>Currículo App</td>
+    <td>Criando um app currículolo</td>
     <td>React Native</td>
   </tr>
   <tr>
