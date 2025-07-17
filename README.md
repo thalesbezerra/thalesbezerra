@@ -64,6 +64,14 @@
 | [Currículo App](#) | Ex: Site de doações com animações e clima | React, TailwindCSS v<img width="302" height="595" alt="CV_IMG01" src="https://github.com/user-attachments/assets/840275ef-7fb4-416f-bd18-3f3e27971fa6" />|
 | |
 
+| Coluna 1     | Coluna 2     | Coluna 3     |
+|-------------|--------------|--------------|
+| Linha 1 A   | Linha 1 B    | Linha 1 C    |
+| Linha 2 A   | Linha 2 B    | Linha 2 C    |
+| Linha 3 A   | Linha 3 B    | Linha 3 C    |
+| **Essa é a última linha unificada (sem colunas)**
+| Linha 3 A   | Linha 3 B    | Linha 3 C    |
+
 ---
 
 
