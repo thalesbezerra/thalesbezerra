@@ -70,7 +70,7 @@
 | Linha 1 A   | Linha 1 B    | Linha 1 C    |
 | Linha 2 A   | Linha 2 B    | Linha 2 C    |
 | Linha 3 A   | Linha 3 B    | Linha 3 C    |
-| **Essa é a última linha unificada (sem colunas)**
+| **Essa é a última linha unificada (sem colunas)**|
 | Linha 3 A   | Linha 3 B    | Linha 3 C    |
 
 ---
