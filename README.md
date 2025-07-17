@@ -72,8 +72,8 @@
   </tr>
   <tr>
     <td>Nome do Projeto 1</td>
-    <td>Nome do Projeto 2</td>
-    <td>App Currículo</td>
+    <td>Pequena descrição do que ele faz</td>
+    <td>Python, Flask</td>
   </tr>
   <tr>
     <td>Linha 2 A</td>
